@@ -1,0 +1,67 @@
+<mxfile host="Electron" modified="2024-07-02T00:44:22.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="MDieU6RFq5t-CDKCZwMN" version="24.6.4" type="device">
+  <diagram name="Page-1" id="4U64kOG8Lpcv_mVM-raL">
+    <mxGraphModel dx="1036" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KMwCjMD7EYlsgs1pM6r7-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="80" width="710" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="KMwCjMD7EYlsgs1pM6r7-2" value="Ogle Giphy Search Engine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="160" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KMwCjMD7EYlsgs1pM6r7-3" value="Input text box.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1030" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KMwCjMD7EYlsgs1pM6r7-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="870" width="710" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="KMwCjMD7EYlsgs1pM6r7-10" value="Ogle Giphy Search Engine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="920" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KMwCjMD7EYlsgs1pM6r7-11" value="Input text box.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="980" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KMwCjMD7EYlsgs1pM6r7-12" value="Submit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="404" y="978" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KMwCjMD7EYlsgs1pM6r7-13" value="Image 1" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KMwCjMD7EYlsgs1pM6r7-14" value="Image 2" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="295" y="1100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KMwCjMD7EYlsgs1pM6r7-15" value="Image 3" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KMwCjMD7EYlsgs1pM6r7-16" value="Image 4" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="569" y="1100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KMwCjMD7EYlsgs1pM6r7-17" value="Image 5" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KMwCjMD7EYlsgs1pM6r7-18" value="Image 6" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="295" y="1220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KMwCjMD7EYlsgs1pM6r7-19" value="Image 7" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KMwCjMD7EYlsgs1pM6r7-20" value="Image 8" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="571" y="1220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KMwCjMD7EYlsgs1pM6r7-21" value="Image 9" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KMwCjMD7EYlsgs1pM6r7-22" value="Image 10" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="295" y="1340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KMwCjMD7EYlsgs1pM6r7-24" value="Input text box.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="230" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KMwCjMD7EYlsgs1pM6r7-25" value="Submit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="230" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

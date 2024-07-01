@@ -1,0 +1,28 @@
+/* Project 2: Giphy Search Engine 
+Completed June 30, 2024 by Brian L. Ogle */
+
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+font-family: "Poppins", sans-serif;
+}
+body{
+    background-color: #376ff1;
+}
+
+.container {
+    width: calc(200px * 4 + 3em);
+    margin: auto;
+}
+
+.results {
+    columns: 4;
+    column-gap: 1em;
+
+
+}
+
+.item {
+    margin-bottom: 1em;
+}
